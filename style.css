@@ -1,1 +1,24 @@
 /* Start coding here */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: lightgray;
+  padding: 50px;
+  height: 100vh;
+}
+
+.box-1 {
+  background-color: orange;
+  height: 25%;
+}
+
+.box-2 {
+  background-color: khaki;
+  height: 25%;
+}
+
+.box-3 {
+  background-color: cornflowerblue;
+  height: 50%;
+}
